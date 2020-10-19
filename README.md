@@ -10,3 +10,4 @@
 + Responsive Design.
 
 ## Ссылка на github pages:
+https://kravcov7.github.io/responsive-page/
