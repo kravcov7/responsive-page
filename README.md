@@ -1,4 +1,6 @@
 # Travell Russia
+## Ссылка на gh-pages:
+https://kravcov7.github.io/responsive-page/
 
 ## О проекте:
 Практическая работа по верстке простой адаптивной страницы
@@ -7,7 +9,9 @@
 + HTML5 
 + CSS3
 + BEM
-+ Responsive Design.
++ Responsive Design
 
-## Ссылка на github pages:
-https://kravcov7.github.io/responsive-page/
+## Реализована
++ Pixel Perfect по макету (Figma)
++ Работа с flex, grid
++ Разработка интерфейса для разных устройств
