@@ -1,0 +1,25 @@
+.video__box{
+    margin: 30px;
+    display: flex;
+    flex-direction: column;
+}
+
+@media (max-width: 1024px){
+    .video__box{
+        margin-bottom: 35px;
+    }
+}
+@media (max-width: 768px){
+    .video__box{
+        margin: 24px;
+    }
+    
+}
+@media (max-width: 375px){
+    
+}
+@media (max-width: 320px){
+    .video__box{
+        margin: 16px;
+    }
+}

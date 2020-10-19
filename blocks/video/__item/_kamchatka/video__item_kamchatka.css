@@ -1,0 +1,23 @@
+.video__item_kamchatka{
+    background: rgba(0, 0, 0, .3);
+    background-image: url(../../../../images/kamchatka.jpg);
+    background-size: cover;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+.video__item_kamchatka:hover{
+    background-blend-mode: multiply; 
+    transition: linear .3s;
+
+}
+
+@media (max-width: 768px){
+    
+}
+@media (max-width: 375px){
+    
+}
+@media (max-width: 320px){
+    
+}

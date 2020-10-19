@@ -1,0 +1,23 @@
+.lead__image{
+    margin-top: 72px;
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+}
+/* 
+@media (max-width: 768px){
+    .lead__image{
+        min-height: 420px;
+        max-height: 420px;
+    }
+}
+@media (max-width: 375px){
+    .lead__image{
+        min-height: 211px;
+        max-height: 211px;
+        margin-top: 34px;
+    }
+}
+@media (max-width: 320px){
+    
+} */

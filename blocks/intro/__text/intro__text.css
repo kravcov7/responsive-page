@@ -1,0 +1,29 @@
+
+.intro__text{
+    font-size: 14px;
+    line-height: 24px;
+    width: 683px;
+    list-style-type: none;
+    margin-left: 0;
+    padding-left: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+    font-family: Inter, Arial, sans-serif;
+    font-style: normal;
+    color: #FFFFFF;
+}
+@media (max-width: 768px){
+    
+}
+@media (max-width: 375px){
+    .intro__text{
+        font-size: 1rem;
+        line-height: 1.6875rem;
+    }
+}
+@media (max-width: 320px){
+    .intro__text{
+        font-size: 1rem;
+        line-height: 1.6875rem;
+    }
+}

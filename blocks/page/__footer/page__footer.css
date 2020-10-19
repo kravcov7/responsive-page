@@ -1,0 +1,17 @@
+.page__footer{
+    margin: 155px auto 48px;
+}
+
+@media (max-width: 768px){
+    .page__footer{
+        margin: 100px auto 48px;
+    }
+}
+@media (max-width: 375px){
+    .page__footer{
+        margin-top: 49px;
+    }
+}
+@media (max-width: 320px){
+    
+}

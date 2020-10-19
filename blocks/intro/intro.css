@@ -1,0 +1,30 @@
+@import url('__title/intro__title.css');
+@import url('__subtitle/intro__subtitle.css');
+@import url('./__text/intro__text.css');
+@import url('./__content-row/intro__content-row.css');
+@import url('./__date/intro__date.css');
+
+@import url('./__text-data/intro__text-data.css');
+@import url('./__text-date/intro__text-date.css');
+@import url('./__text-author/intro__text-author.css');
+
+.intro{
+    width: 683px;
+}
+
+@media (max-width: 768px){
+    .intro{
+        width: 95%;
+    }
+}
+@media (max-width: 375px){
+    .intro{
+        width: 92%;
+    }
+    
+}
+@media (max-width: 320px){
+    .intro{
+        width: 90%;
+    }
+}

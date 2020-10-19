@@ -1,0 +1,30 @@
+.page__intro{
+    margin-top: 80px;
+    margin-left: 228px;
+}
+
+@media (max-width: 1280px){
+    .page__intro{
+        margin-left: 148px;
+    }
+}
+@media (max-width: 1024px){
+    .page__intro{
+        margin-left: 48px;
+    }
+}
+@media (max-width: 768px){
+    .page__intro{
+        margin: auto;
+        margin-top: 80px;
+    }
+}
+@media (max-width: 375px){
+    .page__intro{
+        
+        margin-top: 64px;
+    }
+}
+@media (max-width: 320px){
+    
+}

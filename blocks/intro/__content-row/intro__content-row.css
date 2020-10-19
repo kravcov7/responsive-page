@@ -1,0 +1,25 @@
+.intro__content-row{
+    display: flex;
+    margin-bottom: 14px;
+}
+
+@media (max-width: 1024px){
+    .intro__content-row{
+        margin-bottom: 21px;
+    }
+}
+@media (max-width: 768px){
+    .intro__content-row{
+        margin-bottom: 25px;
+    }
+}
+@media (max-width: 375px){
+    .intro__content-row{
+        margin-bottom: 30px;
+    }
+}
+@media (max-width: 320px){
+    .intro__content-row{
+        margin-bottom: 41px;
+    }
+}

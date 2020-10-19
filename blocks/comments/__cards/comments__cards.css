@@ -1,0 +1,22 @@
+.comments__cards{
+    width: calc((100% - 36px)/3);
+}
+@media (max-width: 768px){
+    .comments__cards{
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        margin-top: 11px;
+        margin-bottom: 52px;
+    }
+}
+@media (max-width: 375px){
+    .comments__cards{
+        width: 100%;
+    }
+}
+@media (max-width: 320px){
+    .comments__cards{
+        margin-top: 28px;
+    }
+}

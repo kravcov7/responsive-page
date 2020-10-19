@@ -1,0 +1,26 @@
+.intro__text-data{
+    font-size: 13px;
+    line-height: 20px;
+    font-family: Inter, Arial, sans-serif;
+    font-style: normal;
+    color: #FFFFFF;
+    list-style-type: none;
+    padding-left: 0;
+    margin-bottom: 0;
+}
+
+@media (max-width: 768px){
+    
+}
+@media (max-width: 375px){
+    .intro__text-data{
+        font-size: 0.75rem;
+        line-height: 1.1875rem;
+    }
+}
+@media (max-width: 320px){
+    .intro__text-data{
+        font-size: 0.75rem;
+        line-height: 1.1875rem;
+    }
+}

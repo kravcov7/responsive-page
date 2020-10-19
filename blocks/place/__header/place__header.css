@@ -1,0 +1,11 @@
+.place__header{
+    display: flex;
+    align-items: flex-end;
+    margin-bottom: 50px;
+}
+
+@media (max-width: 375px){
+    .place__header{
+        margin-bottom: 34px;
+    }
+}

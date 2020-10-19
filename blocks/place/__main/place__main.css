@@ -1,0 +1,15 @@
+.place__main{
+    display: flex;
+}
+
+
+@media (max-width: 700px){
+    .place__main{
+        flex-direction: column;
+    }
+}
+@media (max-width: 320px){
+    .place__main{
+        display: block;
+    }
+}

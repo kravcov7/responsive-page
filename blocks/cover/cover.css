@@ -1,0 +1,40 @@
+@import url('./__subtitle/cover__subtitle.css');
+@import url('./__title/cover__title.css');
+@import url('./__image/cover__image.css');
+
+
+.cover{
+    width: 100%;
+    max-width: 1184px;
+    /* min-height: 594px; */
+    background: rgba(0, 0, 0, .3);
+    background-image: url(../../images/cover.jpg);
+    background-size: cover;
+    
+}
+
+.cover:hover{
+    background-blend-mode: multiply; 
+    transition: linear .3s;
+}
+/* 
+@media (max-width: 1024px){
+    .cover{
+        min-height: 562px;
+    }
+}
+@media (max-width: 768px){
+    .cover{
+        min-height: 500px;
+    }
+}
+@media (max-width: 570px){
+    .cover{
+        min-height: 272px;
+    }
+}
+@media (max-width: 320px){
+    .cover{
+        min-height: 216px;
+    }
+} */

@@ -1,0 +1,22 @@
+.video__item_observatory{
+    background: rgba(0, 0, 0, .3);
+    background-image: url(../../../../images/observatory.jpg);
+    background-size: cover;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+.video__item_observatory:hover{
+    background-blend-mode: multiply; 
+    transition: linear .3s;
+}
+
+@media (max-width: 768px){
+    
+}
+@media (max-width: 375px){
+    
+}
+@media (max-width: 320px){
+    
+}

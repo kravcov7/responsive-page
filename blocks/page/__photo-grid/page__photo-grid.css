@@ -1,0 +1,15 @@
+.page__photo-grid{
+    margin: auto;
+    margin-top: 96px;
+}
+
+@media (max-width: 375px){
+    .page__photo-grid{
+        margin-top: 68px;
+    }
+}
+@media (max-width: 320px){
+    .page__photo-grid{
+        margin-top: 68px;
+    }
+}

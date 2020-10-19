@@ -1,0 +1,22 @@
+@import url('./__additional/page__additional.css');
+@import url('./__barentsburg/page__barentsburg.css');
+@import url('./__comments/page__comments.css');
+@import url('./__cover/page__cover.css');
+@import url('./__emblem/page__emblem.css');
+@import url('./__footer/page__footer.css');
+@import url('./__header/page__header.css');
+@import url('./__intro/page__intro.css');
+@import url('./__lead/page__lead.css');
+@import url('./__photo-grid/page__photo-grid.css');
+@import url('./__places/page__places.css');
+@import url('./__video/page__video.css');
+
+.page{
+   max-width: 1440px;
+   min-width: 300px;
+   margin: auto;
+}
+.body{
+   background-color: #2A2C2F;
+   margin: auto;
+}

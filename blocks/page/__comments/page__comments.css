@@ -1,0 +1,12 @@
+.page__comments{
+    margin: 102px auto 0;
+}
+
+@media (max-width: 375px){
+    .page__comments{
+        margin-top: 67px;
+    }
+}
+@media (max-width: 320px){
+    
+}

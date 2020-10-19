@@ -1,0 +1,19 @@
+.intro__text-date{
+    margin-top: 0;
+    margin-bottom: 0;
+    font-size: 10px;
+    line-height: 16px;
+    font-family: Inter, Arial, sans-serif;
+    font-style: normal;
+    color: #FFFFFF;
+}
+
+@media (max-width: 768px){
+    
+}
+@media (max-width: 375px){
+    
+}
+@media (max-width: 320px){
+    
+}
